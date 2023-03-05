@@ -1,10 +1,8 @@
 <script setup lang="ts">
+import Plane from '@/components/Plane.vue'
 </script>
- 
 <template>
-  <circle x="100"
-          y="100" />
+  <Plane />
 </template>
- 
 <style lang="scss" scoped>
 </style>

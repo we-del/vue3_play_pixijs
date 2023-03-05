@@ -1,4 +1,7 @@
 {
+  "compilerOptions": {
+    "lib": ["DOM"]
+  },
   "files": [],
   "references": [
     {
